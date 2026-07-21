@@ -1,0 +1,6 @@
+247f6d5eea1895f5832e4ad48dc96738d1f4e3e0c079a7ae371003cb872f0734  appcast-x64.xml
+247f6d5eea1895f5832e4ad48dc96738d1f4e3e0c079a7ae371003cb872f0734  appcast.xml
+d532f21ed415b0c0d26fac49629efebb7fc472f6922670102e4e0cc2b42a98d6  THIRD_PARTY_NOTICES.txt
+aee37a50988e1334175da907bba4aabc0d8282339330d5c8417667f9d9698aac  releases/FolderButler-0.6.3-75-mac-universal.dmg
+96092b87b21e327d3fc4fbf175107a486d787ca56d6b1f2c49b2174a5acf2260  releases/FolderButler-0.6.3-75-mac-universal.md
+0f29aa3ea86d2cc2718b513cc481df52ba6e6097e44748d88afe95ac180e2d3b  releases/FolderButler-0.6.3-75-mac-universal.zip

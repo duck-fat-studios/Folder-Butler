@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>FolderButler</title>
+        <item>
+            <title>0.6.3</title>
+            <pubDate>Tue, 21 Jul 2026 03:03:55 +0000</pubDate>
+            <link>https://duckfatstudios.com/folderbutler</link>
+            <sparkle:version>75</sparkle:version>
+            <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://github.com/duck-fat-studios/Folder-Butler/releases/download/v0.6.3-build75/FolderButler-0.6.3-75-mac-universal.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/duck-fat-studios/Folder-Butler/releases/download/v0.6.3-build75/FolderButler-0.6.3-75-mac-universal.zip" length="16392280" type="application/octet-stream" sparkle:edSignature="PzqhfBezmgJVMe/KGvOvqF7iwCM2vXO49GRGLUtO7DoNJwVw3Qp0gMQUiEnALkE4/K/exvcg076FMBqzqSpkBw=="/>
+        </item>
+    </channel>
+</rss>
